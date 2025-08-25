@@ -26,7 +26,7 @@ I primarily relied on Professor Messer’s SY0-701 playlist on YouTube, cross-re
 ## 🔐 Conceptual Struggles & Breakthroughs
 
 - Security controls, Wireless security settings, Architecture and infrastructure concepts
-- TThese three objectives were particularly challenging for me. They did not click during my initial study, and even after additional research, I struggled to fully grasp them. What really helped was focusing on practice quizzes specifically targeting these objectives. Although it was not easy to isolate them at first, doing so allowed me to understand the contexts in which they are applied. I also found AI chatbots extremely useful. Prompting them with “ELI5” (Explain Like I’m 5) often produced explanations that were much easier to relate to other familiar concepts.
+- These three objectives were particularly challenging for me. They did not click during my initial study, and even after additional research, I struggled to fully grasp them. What really helped was focusing on practice quizzes specifically targeting these objectives. Although it was not easy to isolate them at first, doing so allowed me to understand the contexts in which they are applied. I also found AI chatbots extremely useful. Prompting them with “ELI5” (Explain Like I’m 5) often produced explanations that were much easier to relate to other familiar concepts.
 
 ---
 
